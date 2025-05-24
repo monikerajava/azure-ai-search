@@ -180,6 +180,8 @@ Documentação de referência
 
 https://aka.ms/ai900-ai-search
 
+https://learn.microsoft.com/pt-pt/azure/search/
+
 
 Explore an Azure AI Search index (UI) - Laboratório no Microsoft Learning
 
